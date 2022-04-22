@@ -10,7 +10,7 @@
   "dependencies": {
     "@mdi/font": "^4.7.95",
     "core-js": "^3.4.4",
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "t-writer.js": "^1.0.4",
     "vue": "^2.6.10",
     "vue-fullpage.js": "^0.1.5",

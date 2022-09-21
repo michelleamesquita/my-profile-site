@@ -14,7 +14,7 @@
     "t-writer.js": "^1.0.4",
     "vue": "^2.6.10",
     "vue-fullpage.js": "^0.1.5",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
